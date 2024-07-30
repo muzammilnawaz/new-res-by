@@ -1,0 +1,868 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    font-family: Montserrate;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo-sec{
+    padding: 15px 15px 15px 15px;
+    
+}
+
+.logo{
+    background-image: url("bayc-logo-z\ \(1\).jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70px;
+    width: 180px;
+    padding-top: 10px;
+}
+
+ul{
+    display: flex;
+    padding: 30px 15px 15px 15px;
+}
+
+ ul a{
+    display: inline;
+    color: #ffffff;
+    font-size: 12px;
+    margin-left: 25px;
+    text-align: left;
+    cursor: pointer;
+
+    
+}
+.hero{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+#bolder{
+    color: #ffffff;
+    font-size: 30px;
+    margin: 30px 0px;
+    padding-left: 100px;
+    font-family: Montserrate;
+    font-weight: 800;
+
+}
+p{
+    color: #ffffff;
+    font-size: 16px;
+    padding-left: 100px;
+    padding-right: 150px;
+    margin-top: 5px;
+}
+
+.one-pic{
+    padding-top: 20px;
+}
+
+
+.thow pic{
+    padding-top: 20px;
+}
+
+.no1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+    
+}
+.pic1{
+    padding-top: 20px;
+    padding-right: 20px;
+
+}
+
+.pic2{
+    padding-top: 20px;
+    padding-right: 100px;
+
+}
+
+#third{
+    display: block;
+    color: rgb(191, 197, 0);
+    height: 35px;
+    margin-top: 30px;
+    width: 750px;
+    font-size: 30px;
+
+}
+
+#third1{
+    display: block;
+    height: 30px;
+    width: 766px;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+
+
+.forth{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#mid{
+    display: block;
+    height: 80px;
+    width: 487px;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+#mid1{
+    display: block;
+    height: 85px;
+    width: 250px;
+    font-size: 15px;
+    font-weight: 80;
+    color: #ffffff;
+
+
+
+}
+
+.five{
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 70px;
+    width: 85%;
+    margin-left: 100px;
+    color: #ffffff;
+    padding: 21px 21px 21px 21px;
+    background-color: rgb(191, 197, 0);
+    
+}
+
+#buy{
+    display: block;
+    color: #000000;
+    height: 32px;
+    width: 185px;
+    font-size: 30px;
+    font-weight: 900;
+
+}
+
+#ghr{
+    display: block;
+    height: 57px;
+    width: 325px;
+    font-size: 20px;
+    color: #000000;
+}
+
+#but{
+    display: block;
+    align-items: flex-start;
+    box-sizing: border-box;
+    font-size: 20px;
+    border-radius: 5px;
+    height: 75px;
+    width: 186px;
+    background-color: #000000;
+    color: rgb(191, 197, 0);
+
+}
+
+#but:hover{
+    background-color: #ffffff;
+    color: #000000;
+    border: 2px solid #ffffff;
+}
+
+
+.six{
+    display: flex;
+    padding-top: 70px;
+    padding-right: 90px;
+    color: #ffffff;
+}
+
+
+#si h1{
+    text-decoration: underline;
+    margin-left: 100px;
+    color: #ffffff;
+}
+
+
+#si p{
+    font-size: 20px;
+    color: #ffffff;
+}
+
+#si a{
+    color: rgb(191, 197, 0);;
+    text-decoration: none;
+}
+
+.six img{
+    padding-top: 10px;
+}
+
+.saven b{
+    color: #ffffff;
+    margin-left: 100px;
+}
+#saven{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.eght{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 70px;
+    padding-left: 70px;
+    height: 314px;
+    width: 50%;
+}
+.eg{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+}
+.eg img{
+    height: 150px;
+    width: 100px;
+}
+
+.eg p{
+
+    font-size: 15px;
+    height: 200px;
+    width: 125px;
+    margin-left: -100px;
+    padding-top: 20px;
+    overflow: hidden;
+}
+.nine{
+    display: flex;
+}
+
+#ni b{
+    color: #ffffff;
+    font-size: 35px;
+    padding-left: 100px;
+    
+}
+
+#ni p{
+    color: #ffffff;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.nine img{
+    width: 162px;
+    height: 300px;
+    padding-right: 120px;
+}
+
+.ttt{
+    color: #ffffff;
+}
+
+.ttt b{
+    font-size: 35px;
+    padding-left: 100px;
+}
+
+.ttt p{
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.ten{
+
+    display: flex;
+}
+
+.ten1{
+    padding-top: 50px;
+    
+
+}
+
+
+.ten img{
+    background-color: rgb(191, 197, 0);
+    height: 334px;
+    width: 300px;
+    margin-top: 150px;
+    margin-right: 100px;
+}
+.ten1 a{
+    display: block;
+    color: rgb(191, 197, 0);
+    padding-left: 120px;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.ten1 p{
+    display: inline block;
+    font-size: 20px;
+    text-decoration: line-through;  
+}
+
+
+/* media section */
+
+
+
+/* screen size 992px check */
+@media (max-width:1199px) {
+    .hero{
+     
+        margin-right: 0px;
+        ma
+    }
+    #buy{
+        font-size: 25px;
+
+    }
+    .eg{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .eg img{
+        height: 150px;
+        width: 100px;
+        margin-left: -20px;
+    }
+    
+    .eg p{
+    
+        font-size: 15px;
+        height: 200px;
+        width: 125px;
+        margin-left: -140px;
+        padding-top: 20px;
+        overflow: hidden;
+    }
+
+
+}
+
+/* screen size 768px check */
+@media (max-width:991px) {
+    
+.nav{
+    flex-direction: column;
+}
+
+.logo-sec{
+    padding: 0;
+    padding-top: 15px;
+    padding-left: 20px;
+    
+}
+
+.logo{
+    padding-top: 10px;
+    margin-left: 0;
+    padding: 0;
+}
+
+ul{
+    display: flex;
+    /* padding: 30px 15px 15px 15px; */
+    padding: 0;
+    padding-left: 30px;
+}
+
+ ul a{
+    font-size: 12px;
+    margin-left: 20px;
+    text-align: left;
+    cursor: pointer;
+
+    
+}
+.hero{
+    padding-right: 150px;
+    padding-left: 40px;
+}
+
+#bolder{
+    font-size: 25px;
+    margin: 30px 0px;
+    padding-left: 40px;
+
+}
+p{
+    font-size: 16px;
+    padding-left: 40px;
+    margin-top: 5px;
+    width: 50%;
+}
+
+.one-pic{
+    padding-top: 20px;
+}
+
+
+.thow pic{
+    padding-top: 20px;
+}
+
+.no1{
+    flex-direction: column;
+    margin-top: 5px;
+    
+}
+.pic1{
+    padding-top: 20px;
+    padding-left: 40px;
+
+}
+
+.pic2{
+    padding-top: 20px;
+    padding-left: 40px;
+
+}
+
+#third{
+    margin-top: 30px;
+    font-size: 30px;
+
+}
+
+#third1{
+    font-size: 25px;
+
+}
+
+
+
+.forth{
+    display: flex;
+    flex-direction: column;
+
+}
+
+#mid{
+    font-size: 20px;
+}
+
+#mid1{
+    font-size: 15px;
+    margin-top: 20px;
+
+
+}
+
+.five{
+    flex-direction: column;
+    height: 280px;
+    width: 50%;
+    margin-left: 30px;
+    padding: 25px;
+    
+}
+
+#buy{
+    font-size: 28px;
+
+}
+
+#ghr{
+    font-size: 22px;
+}
+
+#but{
+    font-size: 20px;
+    height: 90px;
+    width: 186px;
+
+}
+
+#but:hover{
+    background-color: #ffffff;
+    color: #000000;
+    border: 2px solid #ffffff;
+}
+
+
+.six{
+    flex-direction: column;
+    padding-top: 40px;
+    padding-right: 0px;
+}
+
+
+#si h1{
+    margin-left: 40px;
+}
+
+
+#si p{
+    font-size: 20px;
+}
+
+#si a{
+    color: rgb(191, 197, 0);;
+    text-decoration: none;
+}
+
+.six img{
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+.saven b{
+    margin-left: 40px;
+}
+#saven{
+    font-size: 20px;
+}
+
+.eght{
+    flex-direction: column;
+    padding-top: 20px;
+    padding-left: 50px;
+    height: auto;
+    width: 100%;
+}
+.eg{
+    width: 100%;
+}
+.eg img{
+    height: 150px;
+    width: 100px;
+}
+
+.eg p{
+    margin-top: 140px;
+    font-size: 15px;
+    margin-left: -120px;
+}
+
+.nine{
+    flex-direction: column;
+
+}
+
+#ni b{
+    font-size: 35px;
+    padding-left: 40px;
+    width: 100%;
+    
+}
+
+#ni p{
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.nine img{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.ttt{
+    color: #ffffff;
+}
+
+.ttt b{
+    font-size: 35px;
+    padding-left: 40px;
+}
+
+.ttt p{
+    font-size: 22px;
+    padding-top: 10px;
+}
+
+.ten{
+
+    flex-direction: column;
+}
+
+.ten1{
+    padding-top: 30px;
+    
+
+}
+
+
+.ten img{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.ten1 a{
+    display: block;
+    color: rgb(191, 197, 0);
+    padding-left: 40px;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.ten1 p{
+    display: inline block;
+    font-size: 20px;
+    text-decoration: line-through;  
+}
+
+
+}
+
+/* screen size 576px check */
+@media (max-width:767px) {
+
+}
+
+/* screen size all mobile check */
+@media (max-width:575px) {
+
+    .nav{
+        flex-direction: column;
+    }
+
+    .logo{
+        margin: 0;
+        padding: 0;
+    }
+
+    .nav a{
+        font-size: 14px;
+        margin-left: 15px;
+    }
+
+    .hero{
+        width: 140%;
+        padding-right: 0px;
+        padding-left: 30px;
+    }
+
+
+    #bolder{
+        font-size: 25px;
+        padding-left: 30px;
+        padding-right: 0;
+    
+    }
+    p{
+        font-size: 14px;
+        padding-left: 30px;
+        padding-right: 0px;
+    }
+    
+    .one-pic{
+        padding-top: 20px;
+    }
+    
+    
+    .thow pic{
+        padding-top: 20px;
+    }
+    
+    .no1{
+       flex-direction: column;
+       margin-right: 0;
+        
+    }
+
+
+    .pic1{
+        padding-left: 25px;
+        padding-right: 0px;
+        width: 100%;
+    
+    }
+    
+    .pic2{
+        padding-left: 25px;
+        padding-right: 0px;
+        width: 100%;
+    }
+    
+    #third{
+        font-size: 25px;
+    
+    }
+    
+    #third1{
+        font-size: 20px;
+    }
+    
+    
+    
+    .forth{;
+        flex-direction: column;
+    
+    }
+    
+    #mid{
+        font-size: 15px;
+    }
+    
+    #mid1{
+        font-size: 15px;
+
+    }
+    
+    .five{
+        flex-direction: column;
+        height: 200px;
+        width: 90%;
+        margin-left: 25px;
+        
+    }
+    
+    #buy{
+        font-size: 28px;
+    
+    }
+    
+    #ghr{
+        font-size: 18px;
+    }
+    
+    #but{
+        font-size: 18px;
+    
+    }
+    
+    
+    
+    .six{
+        flex-direction: column;
+        padding-top: 20px;
+        padding-right: 0px;
+    }
+    
+    
+    #si h1{
+        margin-left: 30px;
+        font-size: 25px;
+    }
+    
+    
+    #si p{
+        font-size: 15px;
+        width: 100%;
+    }
+    
+    #si a{
+        font-size: 12px;
+    }
+    
+    .six img{
+       padding-left: 25px;
+       margin-right: 0;
+    }
+    
+    .saven b{
+        font-size: 23px;
+        margin-left: 20px;
+        margin-right: 0;
+    }
+    #saven{
+        color: #ffffff;
+        font-size: 20px;
+    }
+    
+    .eght{
+        flex-direction: column;
+        padding-top: 20px;
+        padding-left: 30px;
+        height: auto;
+        width: 100%;
+    }
+    .eg{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .eg img{
+        height: 150px;
+        width: 100px;
+        margin-left: 20px;
+    }
+    
+    .eg p{
+        margin-top: 140px;
+        font-size: 13px;
+        height: 200px;
+        width: 125px;
+        margin-left: -100px;
+    }
+    .nine{
+        flex-direction: column;
+    }
+    
+    #ni b{
+        font-size: 28px;
+        padding-left: 30px;
+        
+    }
+    
+    #ni p{
+        color: #ffffff;
+        font-size: 16px;
+        padding-top: 10px;
+    }
+    
+    .nine img{
+        padding-top: 20px;
+        padding-left: 20px;
+    }
+
+    .ttt b{
+        font-size: 22px;
+        padding-left: 30px;
+        width: 100%;
+    }
+    
+    .ttt p{
+        font-size: 16px;
+        padding-top: 10px;
+    }
+    
+    .ten{
+        flex-direction: column;
+    }
+    
+    .ten1{
+        padding-top: 20px;
+        
+    
+    }
+    
+    
+    .ten img{
+        margin-top: 30px;
+        margin-left: 25px;
+    }
+    .ten1 a{
+        padding-left: 30px;
+        font-size: 16px;
+    }
+    
+    .ten1 p{
+        font-size: 16px;
+
+    }
+}
+
+
